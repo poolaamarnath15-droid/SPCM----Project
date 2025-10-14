@@ -1,0 +1,26 @@
+SPCM: A Machine Learning Approach for Sentiment-Based Stock Recommendation System
+
+
+BERT, decision making, homophily, machine learning, stock recommendation
+
+IEEE Transaction on Machine Learning,Volume:12,Issue Date:22.January.2024
+
+
+detect_stock_recommendation
+
+
+SPCM
+
+spcm
+
+
+Members
+---------
+
+Text
+Username
+Datetime
+Prediction
+
+
+varchar(3000) NOT NULL,
